@@ -44,7 +44,6 @@ Games are the reason why I started programming in the first place, and for that,
 - I **love** :heart: "placek po węgiersku" (food).
 - I don't like being intoxicated.
 - I did not attend college, nor do I intend to.
-- I'm **terrible** at estimating development time.
 - I missed C2 English certificate by 2 points (still salty about that one).
 - I think that more often than not, testing is a double-edged sword.
 - I'm allergic to nuts (please, don't use this against me).
