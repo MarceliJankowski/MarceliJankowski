@@ -1,6 +1,7 @@
 # ( ) => 'Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">'
 
 ## About me
+
 I'm Marceli, a guy from Poland that loves programming and Dwarf Fortress. <br>
 I would describe myself as a passionate, curious, and diligent individual (with emphasis on curious). <br>
 I'm also pragmatic, and generally don't tend to care about looks (it definitely shows with how deprived of visuals this README is).
@@ -16,9 +17,12 @@ I'm actually a very communicative and open person. <br>
 I love having conversations and greatly appreciate questions (of any kind), so please feel free to ask them.
 
 ## Contact
-If you're similarly minded, got any questions, or just want to talk, hit me up at: marcelijankowski123@gmail.com
+
+If you're similarly minded, got any questions, or just want to talk, hit me up at my LinkedIn [profile](https://linkedin.com/in/marceli-jankowski). <br>
+Alternatively, mail me: marcelijankowski123@gmail.com
 
 ## Technologies
+
 Honestly, there's no point in listing the ones I use/love as this list changes so often. <br>
 I mean, knowing that three years ago I doubled in mySQL and did some database modeling won't give you much. <br>
 For all intents and purposes this info can be already outdated, I may have already forgotten 90% of what I did (and I did).
@@ -37,6 +41,7 @@ Well-told stories hit much harder when you're a part of them, rather than just a
 Games are the reason why I started programming in the first place, and for that, they hold a very special place in my heart.
 
 ## Useless info
+
 - I was born on 10/10/2004, and raised in Koszalin (northern Poland).
 - I drive 2003 Fiat Panda (green one).
 - I may be addicted to Dwarf Fortress...
@@ -50,6 +55,7 @@ Games are the reason why I started programming in the first place, and for that,
 - Last but not least: I use Arch btw.
 
 ## My late night rambling...
+
 **Note:** It was pitch black when I wrote this (and apparently was in a mood for pathos), so don't take it too seriously, I realize that it comes off a bit cliche/corny.
 
 Programmers are a bizarre breed. <br>
@@ -70,6 +76,7 @@ I'm just grateful that I had the support I needed to get to this point, to be a 
 All that for me to say that I feel empowered by being a programmer, I view it as a great privilege, and perhaps foolishly derive my sense of self-worth from it.
 
 ## Stats
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarceliJankowski&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceliJankowski&layout=compact&theme=holi)
