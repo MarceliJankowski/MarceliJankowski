@@ -43,12 +43,12 @@ Games are the reason why I started programming in the first place, and for that,
 ## Useless info
 
 - I was born on 10/10/2004, and raised in Koszalin (northern Poland).
+- ~~I did not attend college, nor do I intend to~~ ~ currently studying Computer Science (yeah...)
 - I drive 2003 Fiat Panda (green one).
 - I may be addicted to Dwarf Fortress...
-- I firmly believe in Vi and UNIX philosophy.
 - I **love** :heart: "placek po węgiersku" (food).
+- I firmly believe in Vi and UNIX philosophy.
 - I don't like being intoxicated.
-- I did not attend college, nor do I intend to.
 - I missed C2 English certificate by 2 points (still salty about that one).
 - I think that more often than not, testing is a double-edged sword.
 - I'm allergic to nuts (please, don't use this against me).
