@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Marceli, a guy from Poland that loves programming and Dwarf Fortress. <br>
+I'm Marceli, a guy from Poland who loves programming and Dwarf Fortress. <br>
 I would describe myself as a passionate, curious, and diligent individual (with emphasis on curious). <br>
 I'm also pragmatic, and generally don't tend to care about looks (it definitely shows with how deprived of visuals this README is).
 
@@ -24,8 +24,8 @@ Alternatively, mail me: marcelijankowski123@gmail.com
 ## Technologies
 
 Honestly, there's no point in listing the ones I use/love as this list changes so often. <br>
-I mean, knowing that three years ago I doubled in mySQL and did some database modeling won't give you much. <br>
-For all intents and purposes this info can be already outdated, I may have already forgotten 90% of what I did (and I did).
+I mean, knowing that three years ago I doubled in MySQL and did some database modeling won't give you much. <br>
+For all intents and purposes, this info can be already outdated, I may have already forgotten 90% of what I did (and I did).
 
 That being said, I mostly do web development. <br>
 I enjoy working on both fronts, and I'm not the type to lock myself into a specific technology stack. <br>
@@ -35,7 +35,7 @@ I also dip my toes in game development from time to time. <br>
 I tried several engines, and ultimately [godot](https://godotengine.org) took the cake for me. <br>
 It's simple, FOSS, easy to start with, and much more powerful and capable than I'll ever need it to be.
 
-I may not be a game developer (and likely never will be), but the ability to create these self-enclosed tiny experiences that I can share with my loved ones turned out to be a tremendous help when dealing with a burnout. <br>
+I may not be a game developer (and likely never will be), but the ability to create these self-enclosed tiny experiences that I can share with my loved ones turned out to be a tremendous help when dealing with burnout. <br>
 There's just something magical about the interactivity of this medium. <br>
 Well-told stories hit much harder when you're a part of them, rather than just a spectator. <br>
 Games are the reason why I started programming in the first place, and for that, they hold a very special place in my heart.
@@ -54,7 +54,7 @@ Games are the reason why I started programming in the first place, and for that,
 - I'm allergic to nuts (please, don't use this against me).
 - Last but not least: I use Arch btw.
 
-## My late night rambling...
+## My late-night rambling...
 
 **Note:** It was pitch black when I wrote this (and apparently was in a mood for pathos), so don't take it too seriously, I realize that it comes off a bit cliche/corny.
 
