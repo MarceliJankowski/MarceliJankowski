@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Marceli, a guy from Poland who loves programming and Dwarf Fortress. <br>
+I'm Marceli, a guy from Poland who loves programming and board games. <br>
 I would describe myself as a passionate, curious, and diligent individual (with emphasis on curious). <br>
 I'm also pragmatic, and generally don't tend to care about looks (it definitely shows with how deprived of visuals this README is).
 
@@ -43,15 +43,17 @@ Games are the reason why I started programming in the first place, and for that,
 ## Useless info
 
 - I was born on 10/10/2004, and raised in Koszalin (northern Poland).
-- ~~I did not attend college, nor do I intend to~~ ~ currently studying Computer Science (yeah...)
+- ~~I did not attend college, nor do I intend to~~ ~ ~~currently studying Computer Science (yeah...)~~ ~ College Dropout
 - I drive 2003 Fiat Panda (green one).
-- I may be addicted to Dwarf Fortress...
+- ~~I may be addicted to Dwarf Fortress...~~ ~ managed to escape its firm grip
 - I **love** :heart: "placek po węgiersku" (food).
 - I firmly believe in Vi and UNIX philosophy.
 - I don't like being intoxicated.
 - I missed C2 English certificate by 2 points (still salty about that one).
 - I think that more often than not, testing is a double-edged sword.
+- I'm deeply fascinated by programming languages; their design, implementation, and philosophy.
 - I'm allergic to nuts (please, don't use this against me).
+- I'm working as a Software Engineer at Adtran.
 - Last but not least: I use Arch btw.
 
 ## My late-night rambling...
