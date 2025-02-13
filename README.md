@@ -3,7 +3,7 @@
 ## About me
 
 I'm Marceli, a guy from Poland who loves programming and board games. <br>
-I would describe myself as a passionate, curious, and diligent individual (with emphasis on curious). <br>
+I am a passionate, curious, and diligent individual (with emphasis on curious). <br>
 I'm also pragmatic, and generally don't tend to care about looks (it definitely shows with how deprived of visuals this README is).
 
 I deeply care about my craft, and therefore consider myself a life-long learner. <br>
@@ -48,17 +48,18 @@ Games are the reason why I started programming in the first place, and for that,
 - ~~I may be addicted to Dwarf Fortress...~~ ~ managed to escape its firm grip
 - I **love** :heart: "placek po węgiersku" (food).
 - I firmly believe in Vi and UNIX philosophy.
-- I don't like being intoxicated.
+- ~~I don't like being intoxicated.~~ ~ I grew up...
 - I missed C2 English certificate by 2 points (still salty about that one).
 - I think that more often than not, testing is a double-edged sword.
 - I'm deeply fascinated by programming languages; their design, implementation, and philosophy.
 - I'm allergic to nuts (please, don't use this against me).
-- I'm working as a Software Engineer at Adtran.
+- I'm working as a Software Engineer at [Adtran](https://www.adtran.com).
+- I'm attempting to acquire Japanese language proficiency (attempting being the keyword here).
 - Last but not least: I use Arch btw.
 
 ## My late-night rambling...
 
-**Note:** It was pitch black when I wrote this (and apparently was in a mood for pathos), so don't take it too seriously, I realize that it comes off a bit cliche/corny.
+**Note:** It was pitch black when I wrote this (and apparently was in a mood for pathos), so don't take it too seriously.
 
 Programmers are a bizarre breed. <br>
 In many ways, they're artists, artisans, and magicians at the same time. <br>
@@ -67,8 +68,8 @@ It oft seems to me that being a programmer is intrinsically tied to being stuck 
 It feels like the underlying dynamic of being a developer is an infinite loop with no break statements. <br>
 There are always new things to learn, libraries, frameworks, languages, tools, methodologies, and the list goes on... <br>
 It's hard to keep up, yet we do. <br>
-We continuously choose to improve, adapt and evolve. <br>
-After all, what else can kill developer's career as swiftly and effectively as stagnation?
+We continuously choose to improve, adapt, and evolve. <br>
+After all, what else can kill a developer's career as swiftly and effectively as stagnation?
 
 This is a field where brilliant lunatics, charming madmen, and exceptionally minded individuals abound. <br>
 It's truly an amazing profession built by an incredible set of individuals. <br>
