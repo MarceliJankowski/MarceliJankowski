@@ -2,11 +2,11 @@
 
 ## About me
 
-I'm Marceli, a guy from Poland who loves programming and board games. <br>
+I'm Marceli, a guy from Poland who loves programming and nighttime walks. <br>
 I am a passionate, curious, and diligent individual (with emphasis on curious). <br>
 I'm also pragmatic, and generally don't tend to care about looks (it definitely shows with how deprived of visuals this README is).
 
-I deeply care about my craft, and therefore consider myself a life-long learner. <br>
+I deeply care about my craft, and therefore consider myself a lifelong student. <br>
 I always seek to improve, learn new things, understand new concepts, and apply them in practice. <br>
 Simply put, there's no destination that I'm striving towards, no end goal that I wish to achieve. <br>
 I'm just constantly pushing myself to new heights with each passing day. <br>
@@ -23,28 +23,28 @@ Alternatively, mail me: marcelijankowski123@gmail.com
 
 ## Technologies
 
-Honestly, there's no point in listing the ones I use/love as this list changes so often. <br>
-I mean, knowing that three years ago I doubled in MySQL and did some database modeling won't give you much. <br>
+Honestly, there's no point in listing the ones I use(d) as this list changes so often. <br>
+I mean, knowing that X years ago I doubled in MySQL and did some database modeling won't give you much. <br>
 For all intents and purposes, this info can be already outdated, I may have already forgotten 90% of what I did (and I did).
 
 That being said, I mostly do web development. <br>
 I enjoy working on both fronts, and I'm not the type to lock myself into a specific technology stack. <br>
-I evaluate and assess project needs, and based on them choose the tools (some folks got it reversed).
+I evaluate and assess project needs, and based on them, choose the tools (some folks got it reversed).
 
 I also dip my toes in game development from time to time. <br>
 I tried several engines, and ultimately [godot](https://godotengine.org) took the cake for me. <br>
 It's simple, FOSS, easy to start with, and much more powerful and capable than I'll ever need it to be.
 
-I may not be a game developer (and likely never will be), but the ability to create these self-enclosed tiny experiences that I can share with my loved ones turned out to be a tremendous help when dealing with burnout. <br>
+I may not be a game developer (and likely never will be), but the ability to create these self-contained, tiny experiences that I can share with my loved ones turned out to be a tremendous help when dealing with burnout. <br>
 There's just something magical about the interactivity of this medium. <br>
 Well-told stories hit much harder when you're a part of them, rather than just a spectator. <br>
 Games are the reason why I started programming in the first place, and for that, they hold a very special place in my heart.
 
 ## Useless info
 
-- I was born on 10/10/2004, and raised in Koszalin (northern Poland).
+- I was born on 10/10/2004 and raised in Koszalin (northern Poland).
 - ~~I did not attend college, nor do I intend to~~ ~ ~~currently studying Computer Science (yeah...)~~ ~ College Dropout
-- I drive 2003 Fiat Panda (green one).
+- I drive a 2003 Fiat Panda (green one).
 - ~~I may be addicted to Dwarf Fortress...~~ ~ managed to escape its firm grip
 - I **love** :heart: "placek po węgiersku" (food).
 - I firmly believe in Vi and UNIX philosophy.
