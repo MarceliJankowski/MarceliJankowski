@@ -1,6 +1,6 @@
 ## About me
 
-I work on complex systems; designing, maintaining, enhancing and scaling complex systems. <br>
+I work on systems; designing, maintaining, enhancing and scaling complex systems. <br>
 
 Currently I'm doing so at [Adtran](https://www.adtran.com), working on innovative fiber monitoring products with an amazing team. <br>
 
