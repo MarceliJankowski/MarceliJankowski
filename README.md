@@ -2,8 +2,6 @@
 
 I work on systems; designing, maintaining, enhancing and scaling complex systems. <br>
 
-Currently I'm doing so at [Adtran](https://www.adtran.com), working on innovative fiber monitoring products with an amazing team. <br>
-
 In my spare time, I often embark on nighttime treks with friends, read-about and work-on PL design and construction, practice the piano, run, and study Japanese.
 
 ## Contact
@@ -11,7 +9,7 @@ In my spare time, I often embark on nighttime treks with friends, read-about and
 If you want to reach out, please don't hesitate to do so! <br>
 
 You can message me on my LinkedIn [profile](https://linkedin.com/in/marceli-jankowski). <br>
-Or, write me an email: marcelijankowski123@gmail.com.
+Or, write me an email: marcelijankowski.it@gmail.com.
 
 ## Useless Facts
 
