@@ -1,8 +1,8 @@
 ## About me
 
-I work on systems; designing, maintaining, enhancing and scaling complex systems. <br>
+I work on systems; designing, maintaining, enhancing and scaling software systems. <br>
 
-In my spare time, I often embark on nighttime treks with friends, read-about and work-on PL design and construction, practice the piano, run, and study Japanese.
+In my spare time, I often embark on treks with friends, read-about and work-on PL design and construction, practice the piano/bass, run, and study Japanese.
 
 ## Contact
 
